@@ -12,7 +12,7 @@
 
 <p align="justify">
 Projeto para praticar seu conhecimentos em javascript. 
-O pingpong é um jogo simples de aprendizado e também para entretenimentom, praticando o desenvolvimento deste exemplo, você será capaz de manipular de forma correta a canvas API. Assim, agregando um  alto valor no aprendizado de orientação a objetos com (HTML5, CSS, JavaScript, Canvas API.
+O pingpong é um jogo simples de aprendizado e também para entretenimento, praticando o desenvolvimento deste exemplo, você será capaz de manipular de forma correta a canvas API. Assim, agregando um  alto valor no aprendizado de orientação a objetos com (HTML5, CSS, JavaScript, Canvas API.
 
 Espero que goste!</br>
 Attm, Daniel Santos.
