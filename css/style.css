@@ -1,0 +1,16 @@
+* {
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+  }
+
+.logo{
+  display: block;
+  margin: 0px auto;
+  background-color: #286047;
+}
+.logo a img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto   
+}
